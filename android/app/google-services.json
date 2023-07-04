@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "271960088054",
+    "project_id": "cleandart2login",
+    "storage_bucket": "cleandart2login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271960088054:android:45467543fd7afc665e7bd7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login_cleandart2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271960088054-fsm68m7h6mjnueir8kbchkf0l7rasbba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwIuplXNSZrMrcHyTdwy-Lmt-Btw7Bl0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271960088054-fsm68m7h6mjnueir8kbchkf0l7rasbba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
